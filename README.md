@@ -4,9 +4,9 @@
 A simply utility that allows you to put text over a winforms progress bar WITHOUT repainting the progress bar and removing the animation. Text is automatically centered in the progress bar.
 
 ## Features
-- ProgressText property
-- TextColor property
-- TextFont property
+- ProgressText property to set the text over the progress bar.
+- TextColor property to set the text's color.
+- TextFont property to set the text font.
 
 ## Usage
 
