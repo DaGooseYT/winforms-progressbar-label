@@ -1,7 +1,7 @@
 # Windows Forms Progress Bar Label
 ![alt-text](https://github.com/DaGooseYT/winforms-progressbar-label/blob/main/progressbarlabel.gif)
 
-A simply utility that allows you to put text over a winforms progress bar WITHOUT repainting the progress bar and removing the animation. Text is automatically centered in the progress bar/
+A simply utility that allows you to put text over a winforms progress bar WITHOUT repainting the progress bar and removing the animation. Text is automatically centered in the progress bar.
 
 ## Features
 - ProgressText property
