@@ -11,10 +11,10 @@ A simply utility that allows you to put text over a winforms progress bar WITHOU
 ## Usage
 
 ```C#
-this.progressBarLabel1 = new EncodeProg.ProgressBarLabel();
+this.progressBarLabel1 = new Progress.ProgressBarLabel();
 
 // Set custom properties
-this.progressBarLabel1.ProgressText = "Your Text Here (unknown progress)";
+this.progressBarLabel1.ProgressText = "Your Text Here (83%)";
 this.progressBarLabel1.TextColor = System.Drawing.Color.Black;
 this.progressBarLabel1.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 ```
